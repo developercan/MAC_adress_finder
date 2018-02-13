@@ -1,0 +1,10 @@
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\bin\Debug\MAC-adresss.exe.config
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\bin\Debug\MAC-adresss.exe
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\bin\Debug\MAC-adresss.pdb
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC-adresss.csprojResolveAssemblyReference.cache
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC_adresss.Properties.Resources.resources
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC-adresss.csproj.GenerateResource.Cache
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC-adresss.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC-adresss.exe
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC-adresss.pdb
+C:\Users\Ahmet Can\source\repos\MAC-adresss\MAC-adresss\obj\Debug\MAC_adresss.FrmMain.resources
